@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80e14a72067f1ad408ec8d661bc560ce, type: 3}
+  m_Name: New Import Setting
+  m_EditorClassIdentifier: 
+  templatePath: QuickSheet/ExcelPlugin/Templates
+  scriptFilePath: 
+  editorScriptFilePath: 
+  sheetName: testDat.xls
+  workSheetName: Sheet1
+  columnHeaderList:
+  - type: 1
+    name: DronesXChallenge
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: Category
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: id
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: DroneName
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: feasablilityScore
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: QualifiedToPhaseI,II,IIIOrNo
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: NameOfApplicant
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantEmailAddress
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantGender
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantResponsibility
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantCountryOfResidence
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantEducationalBackground
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantSkills
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantPreviousExperience
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantCurrentExperience
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: ApplicantRecurringEntrepreneur
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: DroneSize
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: DroneWeight
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: WeightDroneCanCarry
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: DroneFrame
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: Innovativeness
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: TypeOfEnergySource
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: RangeOrEndurance
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: CruiseSpeed
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: TypeOfHydroCarbon_if
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: TypeOfBattery
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: NumberOfRotors
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: FaultTolerance
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: AutonomousNavigation
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: DroneDesign
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: RotorDetails
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: AutoPilotDetails
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: BatteryDetails
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: BusinessStage
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: CompetitiveAdvantage
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: CurrentMarket
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: RevenueStream
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: MarketPenetrationStrategy
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: MarketingPlanAndStrategy
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: YearOfEstablishment
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: CompanyDetails
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: NumberOfEmployees
+    isEnable: 0
+    isArray: 1
+  - type: 1
+    name: CompanyLocation
+    isEnable: 0
+    isArray: 1
+  excelFilePath: Assets/data/testDat.xls
+  SheetNames:
+  - Sheet1
+  - Cheatsheet
+  currentSelectedSheet: 0

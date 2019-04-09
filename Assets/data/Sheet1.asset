@@ -1,0 +1,828 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12aebd0cdaff35294a0f514893b2d11d, type: 3}
+  m_Name: Sheet1
+  m_EditorClassIdentifier: 
+  SheetName: Assets/data/testDat.xls
+  WorksheetName: Sheet1
+  dataArray:
+  - dronesxchallenge: Drones XChallenge
+    category: Battery powered multi-rotor
+    id: 63554961313548473447505451714b78
+    dronename: Flugauto
+    feasablilityscore: 6
+    qualifiedtophase: Phase 1
+    nameofapplicant: Alexandros Xydas
+    applicantemailaddress: alex@flug-auto.com
+    applicantgender: Male
+    applicantresponsibility: 
+    applicantcountryofresidence: 
+    applicanteducationalbackground: 
+    applicantskills: 
+    applicantpreviousexperience: 
+    applicantcurrentexperience: 
+    applicantrecurringentrepreneur: 
+    dronesize: 
+    droneweight: 
+    weightdronecancarry: 'scalable for payloads between 30 and 250 kg, and ranges
+      of 30km to
+
+      250km.'
+    droneframe: ' monocoque frame'
+    innovativeness: 'Technology also:
+
+      - Is scalable for payloads between 30 and 250 kg, and ranges of 30km to
+
+      250km.
+
+      - Has small footprint, with a wingspan smaller that the smallest of
+
+      helicopters.
+
+      - Requires no infrastructure, can take-off and land anywhere.
+
+      - Is fully electric, which makes it low cost and environmentally friendly.
+
+
+      Other patentable features:
+
+      - Unique patentable and proprietary hardware elements for a VTOL vehicle,
+
+      with applications in multiple industries, that could be sold or licensed as
+
+      a complete system or even individually.  Technology IP includes, but not
+
+      limited to:
+
+      -- Aerodynamics (e.g. props integrated in wing, lifting body shape)
+
+      -- Propulsion systems (e.g. tilt mechanism)
+
+      -- Cooling mechanisms
+
+      -- Noise shielding
+
+      -- Mechanical design (e.g. rapid battery switch systems, dynamic weight and
+
+      balancing mechanism)
+
+      -- Manufacturing techniques (e.g. monocoque frame)
+
+
+      - Hardware elements that are specifically designed for flying in the harsh
+
+      operating environment of the desert (high temperatures and humidity, dusty
+
+      and windy conditions)
+
+      - Software elements (control systems) that are required to control and
+
+      operate VTOL with tiltable rotors
+
+      - VTOL Infrastructure (e.g. landing platforms, load/unload mechanisms)
+
+      - Operations platform for monitoring and overseeing operations of a fleet
+
+      of VTOL vehicles'
+    typeofenergysource: Electric propulsion
+    rangeorendurance: 
+    cruisespeed: 30-250km
+    typeofhydrocarbon_if: N/A
+    typeofbattery: Battery switch system
+    numberofrotors: 8
+    faulttolerance: 
+    autonomousnavigation: 
+    dronedesign: 'Aerodynamics - Design that is a hybrid of plane and helicopter,
+      with 8 tilting rotors
+
+      and 80% energy saving during forward flight.'
+    rotordetails: ' Software elements (control systems) that are required to control
+      and
+
+      operate VTOL with tiltable rotors'
+    autopilotdetails: 'VTOL Infrastructure (e.g. landing platforms, load/unload mechanisms)
+
+      - Operations platform for monitoring and overseeing operations of a fleet
+
+      of VTOL vehicles'
+    batterydetails: It is fully electric, which makes it low cost and environmentally
+      friendly.
+    businessstage: Seed Stage
+    competitiveadvantage: "The major factors driving the growth of commercial UAV
+      market are:\n- Increasing demand of drones for commercial applications due to
+      the cost\nand efficiency savings.\n- Significant technological advancements
+      including improved design and\nbetter data processing capabilities in the last
+      few 2-3 years is aiding the\ngrowth.\n- Push for unmanned vehicles due to safety
+      benefits (removal of human\non-board pilot) from military and other industry
+      players (e.g. (O&G\ncompanies).\n- Increasing military budgets of several countries
+      and investment in UAVs.\n\nTotal Available Market for Unmanned Aerial Vehicles
+      - UAVs (market\nestimates):\n- Oil & Gas: $1.2bn+ \n- Logistics: $13bn+ \n\nTarget
+      Market (Flugauto estimates):\n- Oil & Gas: $100mn+\n- Logistics: $3bn+"
+    currentmarket: 
+    revenuestream: 
+    marketpenetrationstrategy: 
+    marketingplanandstrategy: 
+    yearofestablishment: 2019
+    companydetails: 'We are Flugauto and our vision is to revolutionise how cargo
+      is moved by
+
+      providing air transportation for industrial applications, and enabling
+
+      instant access to cargo for everyone, everywhere. We are disrupting the
+
+      miles before the last-mile delivery.'
+    numberofemployees: 4
+    companylocation: US
+  - dronesxchallenge: 
+    category: Battery powered multi-rotor
+    id: 50745050337a5468486b6f4b62346472
+    dronename: Bladetips Energy
+    feasablilityscore: 4
+    qualifiedtophase: Phase 1
+    nameofapplicant: Rogelio LOZANO
+    applicantemailaddress: rogelio@bladetipsenergy.com
+    applicantgender: Male
+    applicantresponsibility: CEO & CTO
+    applicantcountryofresidence: France
+    applicanteducationalbackground: "Institut national polytechnique de Grenoble\nDegree
+      NameTh\xE8se en a\xE9ronautique Field Of StudyEtude d'un g\xE9n\xE9rateur Cerf-volant\nDates
+      attended or expected graduation 2010 \u2013 2014\n\n Ecole Centrale Paris\nEcole
+      Centrale Paris\nDegree NameRecherche a\xE9ronautique et spatiale\nDates attended
+      or expected graduation 2010 \u2013 2011\n\n Universit\xE9 de Technologie de
+      Compi\xE8gne\nUniversit\xE9 de Technologie de Compi\xE8gne\nDegree NameIng\xE9
+      Contr\xF4le des syst\xE8mes // Master Syst\xE8mes Transport Inteligents\nDates
+      attended or expected graduation 2005 \u2013 2009"
+    applicantskills: 
+    applicantpreviousexperience: 'Started the project in 2010 at Ecole Centrale Paris.
+
+      Developed the technology during his PhD.
+
+      Founded Bladetips Energy in 2016.
+
+      3 Patents-5 awards.'
+    applicantcurrentexperience: 'Founder
+
+      Company NameBladetips Energy'
+    applicantrecurringentrepreneur: No
+    dronesize: 
+    droneweight: 
+    weightdronecancarry: 30 kg
+    droneframe: 
+    innovativeness: '"We re-designed from scratch the way our system works. The control
+      system,
+
+      the algorithms, the overall design and the energy management system have
+
+      been specially developed for this drone."'
+    typeofenergysource: 
+    rangeorendurance: 
+    cruisespeed: 
+    typeofhydrocarbon_if: 
+    typeofbattery: 
+    numberofrotors: 1
+    faulttolerance: 
+    autonomousnavigation: 
+    dronedesign: 
+    rotordetails: 
+    autopilotdetails: 
+    batterydetails: 
+    businessstage: "Early Stage Startup (pre-funding, with an MVP)\t"
+    competitiveadvantage: "To the best of our knowledge, our system has the best energy
+      efficiency of\nall. While best helicopters or drones have an efficiency of 10
+      g/W, our\nsystem has 30 g/W. This allow us to have the longest endurance/payload\nperformances.\nOur
+      system is silent, it barely can be heard at a distance of 100 meters.\nThis
+      is an ofter underestimated point. \nStandard helicopter blades are stiff and
+      go at a speed of approximately 200\nmeters per second. Being in contact with
+      a blade is likely to be fatal. Our\nsystem's blades go at a speed of 25 m/second
+      and they are made out of foam:\nit results in a much less dangerous solution."
+    currentmarket: France
+    revenuestream: 'Our business model relies today on the standard sales of drones.
+
+      We would like to expand it to a delivery service, somewhat similar to Uber.'
+    marketpenetrationstrategy: "We think that the strategy of the company \"Zipline\"
+      shows us the way to go:\n- Very important mission ( blood transfusion delivery).\n-
+      Sites with low chances of hurting someone if a crash occurs ( Rwanda has\na
+      very low population density outside towns).\n- drone that is simple & reliable.\n\nWe
+      believe that deliveries in the deserts can be our first market : \n- Many sites
+      have important needs for deliveries (health related supply,\nfood).\n- Low chance
+      of hurting someone in case of a crash in the desert.\n- Our drone is safe and
+      reliable.\n\nConcerning drone deliveries, here is the main challenge we see
+      : We are\nbased in France and having permissions to fly is simply a nightmare:
+      it is\nextremely time consuming, difficult and frustrating. \nToday's market
+      is mostly blocked by regulation. We believe that the most\nimportant point for
+      the market penetration is to find a place where\nauthorities actually want to
+      develop drone services.\n\nThe UAE's government has shown a will to develop
+      the drone industry, we\nwould love to discuss the possibility of developing
+      our business in the\nUAE."
+    marketingplanandstrategy: 'In order to promote our system, we want to get the
+      world record of the
+
+      longest flight. This will help our system get the thrust from the public it
+
+      needs.'
+    yearofestablishment: 2014
+    companydetails: We developed a revolutionary airborne plateform capable of lifting
+      heavy payloads to outstanding heights, while producing its own energy. It takes
+      off like a drone, spins around like a propeller, then catches wind to remain
+      airborne like a kite, in complete autonomy.
+    numberofemployees: 3
+    companylocation: France
+  - dronesxchallenge: 
+    category: Battery powered fixed-wing
+    id: 446479316762624f6557554e58763741
+    dronename: Kray Technologies Inc
+    feasablilityscore: 4
+    qualifiedtophase: Phase 1
+    nameofapplicant: Dmytro Surdu
+    applicantemailaddress: dmitriy.surdu@gmail.com
+    applicantgender: Male
+    applicantresponsibility: CEO
+    applicantcountryofresidence: Califonia
+    applicanteducationalbackground: 'National Technical University of Ukraine ''Kyiv
+      Polytechnic Institute''
+
+      Field Of StudyApplied Mathematics
+
+      Dates attended or expected graduation 2005'
+    applicantskills: Business Strategy, Project Management & Startegic Planning
+    applicantpreviousexperience: "* Financial Consultant\nCompany NameFreelance Financial
+      Services\nDates EmployedJan 2010 \u2013 Feb 2014\nEmployment Duration4 yrs 2
+      mos\n\n* Project Architect\nCompany NameUkrmetrteststandard, SE\nDates EmployedNov
+      2008 \u2013 Dec 2009\nEmployment Duration1 yr 2 mos\nLocationKyiv\n\n* CEO\nCompany
+      NameGolden Technologies, LLC\nDates EmployedSep 2002 \u2013 Sep 2008\nEmployment
+      Duration6 yrs 1 mo\nLocationKyiv\n\n* Seniour Developer/Architect\nCompany NameILS\nDates
+      Employed2008\nEmployment Durationless than a year"
+    applicantcurrentexperience: "CEO \nKray"
+    applicantrecurringentrepreneur: Yes
+    dronesize: "\"Height: 90cm diameter: 200cm (by motor axes)\_\""
+    droneweight: 42 kg mtow
+    weightdronecancarry: 15 kg
+    droneframe: carbon fiber composite
+    innovativeness: "\"To date, we hold more than 10 significant patent applications
+      prepared and\na big amount of know-how retained IP mostly for software algorithms.
+      \ For\nmore data, you can check out IP Brief\nhttps://docs.google.com/document/d/1_NOfyHuhEXpNmiJadwXk-U91ch1Cj-M6UeKKslg1-_o/edit\n\nThe
+      results already exceed the solutions available at the market\ndrastically. \n\nFrom
+      the standpoint of the challenge, the following most innovating\nfeatures should
+      be mentioned:\n-The battery-powered fixed-wing class of the delivery UAV with
+      precision\nlanding VTOL capabilities which require only 8x8 feet landing site
+      due to\nthe foldable rear wing;\n-The heavy-lift compound multirotor drone platform
+      with 25 m/s, 140 W/kg of\npayload transportation consumption\n-The fully custom
+      software stack which provides centimeter-level control\nprecision for hovering
+      and high-speed flights\n-The computer vision system for 2-10 cm precision terrain
+      reconstruction\nfor obstacle avoidance and terrain following, including the
+      ultra-low\naltitude capability\n-The computer vision system for autonomous landing
+      on unprepared sites\""
+    typeofenergysource: battery
+    rangeorendurance: 
+    cruisespeed: 100 kph
+    typeofhydrocarbon_if: 
+    typeofbattery: LiPo battery
+    numberofrotors: 8
+    faulttolerance: Power Unit/Thrust Unit failure tolerance
+    autonomousnavigation: RTK GNSS
+    dronedesign: compound multirotor VTOL
+    rotordetails: "29\u201D CF specially designed for compound MRs"
+    autopilotdetails: Pixhack V3 based
+    batterydetails: 
+    businessstage: "Growth & Establishment\t"
+    competitiveadvantage: "Kray Protection UAS outperforms competitors is the INDUSTRIAL
+      APPLICABILITY\nof the drone-based spraying solution. While most competitors
+      fly with the\nspeed of 5 m/s Kray UAS can fly with the speed of 30 m/s so it
+      enables the\ncoverage of 1200 acres a day. Previously, fixed-wing aircrafts
+      with this\ncapabilities operated at 5-10 m altitude which created the enormous
+      drifts\nwhen applying the ULV with small droplets.\nOur drone is the first and
+      only one capable for industrial productivity\napplications of the electrostatically
+      charged droplets at 3 feet altitude,\nwhich eliminates drifts providing the
+      necessary level of safety.\nIt implies complex design with high position control
+      precision and rich\nsituational awareness for high-level control deployed on
+      high-speed VTOL\naircraft, along with the advanced spraying system. There is
+      no \u201Csilver\nbullet\u201D easy solution to the complex problem of the efficient
+      crop\nprotection application, and Kray Protection became the first available\ncomplex
+      one."
+    currentmarket: Australia | Brazil | Canada | South Africa | Ukraine | United States
+    revenuestream: 'For the current company stage, we rely mostly on direct sales
+      of Kray
+
+      Protestion UAS to customers.
+
+      Currently at the pre-production stage we generate leads through our website
+
+      funnel collecting orders and pre-orders, now we have $8M of request for
+
+      quotes amount in our pipeline. We are going to establish the sales office
+
+      in the U.S. in 2019 and conduct the PR campaign of the official Kray
+
+      Protection UAS product launch in 3Q 2019.'
+    marketpenetrationstrategy: 'Kray Technologies Inc. has created the highly efficient
+      crop protection
+
+      application technology for use at the industrial scale in almost all farms.
+
+      We bring the innovation to the agricultural sector allowing farmers run
+
+      spraying safely and precisely at the much lower cost in the medium and big
+
+      farms.
+
+      We are currently selling Kray Protection UAS in the U.S. and Canadian
+
+      markets and on the way to scale our production capabilities. Then we will
+
+      make the transition to Spraying-as-a-Service model powered by totally
+
+      manless operations with Kray Protection 2 UAS.'
+    marketingplanandstrategy: 'Kray Protection UAS target market is 1 million mid-size
+      farms just in U.S.
+
+      and Canada. We have big demand from farmers willing to switch from services
+
+      they currently rely on and take the control over their core risk management
+
+      activity which is crop protection, back again.
+
+      Having 10x cheaper application, farmer gains the whole new dimension of
+
+      precision agriculture: in addition to currently used applications at any
+
+      rate in any place, farmer becomes able to apply at any TIMES. It allows to
+
+      increase yields drastically and creates the wholly new agriculture
+
+      landscape.
+
+      Further, Kray Protection 2 UAS will be the heavier and fully autonomous
+
+      system manlessly deploying and processing the field. It will provide fully
+
+      digital services for farmers, making protecting their field as easy as
+
+      ordering it from his tablet.
+
+      This way we aim to make the business and technological solutions
+
+      implemented in Kray the noticeable technology in 4th agricultural
+
+      revolution.'
+    yearofestablishment: 2015
+    companydetails: "We created the most advanced technology for crop protection to
+      be used at the industrial scale for almost all crop production farms. Kray Protection
+      drone demonstrates outstanding performance of crop dusting while lowering farmers\u2019
+      expenses. It prevents yield losses that are inevitable when using other crop
+      protection methods."
+    numberofemployees: 18
+    companylocation: Australia
+  - dronesxchallenge: 
+    category: Battery powered fixed-wing
+    id: 4732576d6b517837747370595149424e
+    dronename: Photon Technologies
+    feasablilityscore: 5
+    qualifiedtophase: Phase 1
+    nameofapplicant: Siva Kumaran
+    applicantemailaddress: virtualvlsi@gmail.com
+    applicantgender: male
+    applicantresponsibility: BDM
+    applicantcountryofresidence: India
+    applicanteducationalbackground: "*S.R.M\nDegree NameMaster of Technology (M.Tech.)
+      Field Of StudyVLSI Design\nDates attended or expected graduation 2005 \u2013
+      2007\n\n*Sri Padmavathi College of Engineering\nDegree NameBachelor of Engineering
+      (B.E.) Field Of StudyElectrical and Electronics Engineering\nDates attended
+      or expected graduation 2003 \u2013 2005"
+    applicantskills: Embedded Systems, Matlab , Semiconductors
+    applicantpreviousexperience: 
+    applicantcurrentexperience: 'Business Development Manager
+
+'
+    applicantrecurringentrepreneur: NO
+    dronesize: 
+    droneweight: 52 gm
+    weightdronecancarry: 
+    droneframe: 
+    innovativeness: We control the drone in assembly language version. So, we understood
+      theworking part of the machine more clearly. this can be extended to otherapplications
+    typeofenergysource: 
+    rangeorendurance: 
+    cruisespeed: 
+    typeofhydrocarbon_if: 
+    typeofbattery: 2-3 Cell Li-Po battery
+    numberofrotors: 
+    faulttolerance: 
+    autonomousnavigation: 
+    dronedesign: 
+    rotordetails: '"Extremely Powerful RC Brushless motor in small size. Specialized
+      for multi-rotors. Includes prop
+
+      adaptor to suite variety of props, supports pusher or puller props(Counter rotating
+      props) . To be
+
+      used directly with propellers. Comes with motor mount and Bullet male connectors."'
+    autopilotdetails: 
+    batterydetails: 
+    businessstage: "Growth & Establishment\t"
+    competitiveadvantage: Have sound Technical Knowledge
+    currentmarket: European Union | India | Indonesia
+    revenuestream: planning to sell a drone in a month .
+    marketpenetrationstrategy: Designed a single prototype. Will sell it and then
+      proceed for the next andthe cycle goes on.
+    marketingplanandstrategy: "We have a database of clients. \_Our surrounding society
+      has more awarenessabout Drones"
+    yearofestablishment: 2012
+    companydetails: 'PHOTON Technologies offers training for graduates and working
+      professionals.
+
+
+      100 % placement offered for Android Course.
+
+
+      We provide training in areas such as Android, IOS, Embedded System, VLSI Design,
+      MATLAB, Labview, Solar System etc., We give more importance to quality. The
+      person who undergo the course can develop a project by their own.
+
+
+      Our Faculties are well trained and have a good exposure to the latest trends
+      in the market. We arrange for visiting faculties in our office, such that a
+      student can interact with the corporate professionals and get ideas over it.'
+    numberofemployees: 3
+    companylocation: India.
+  - dronesxchallenge: 
+    category: Hydrocarbon/hybrid powered fixed-wing
+    id: 506c3641436153724e716855666c326e
+    dronename: Vanity Declan
+    feasablilityscore: 3
+    qualifiedtophase: Phase 1
+    nameofapplicant: Prince Vincent
+    applicantemailaddress: princenvincent@gmail.com
+    applicantgender: Male
+    applicantresponsibility: 
+    applicantcountryofresidence: 
+    applicanteducationalbackground: 
+    applicantskills: 
+    applicantpreviousexperience: 
+    applicantcurrentexperience: 
+    applicantrecurringentrepreneur: 
+    dronesize: 
+    droneweight: 
+    weightdronecancarry: 
+    droneframe: 
+    innovativeness: "Design Alternative 1 The first design that was looked at is shown
+      below in Figure 1: DesignAlternative 1. This design employs the use of a high
+      wing attached to aconventional single-engine type fuselage finished off with
+      a standard tailto control elevation. The main advantage behind using this design
+      is itssolid foundation. In turbulent or otherwise undesirable conditions duringflight,
+      the struts connecting the wings to the fuselage prevent any damagefrom occurring
+      and also aid in supporting a steady flight path. Its\u201Cteardrop\u201D shape
+      also adds a great deal to the plane\u2019s aerodynamicsby cutting down on its
+      drag coefficient. The disadvantages in using thisdesign, however, stem mostly
+      from the desired specifications of the planeitself. Since this plane is being
+      designed to perform a reconnaissancemission the best place to mount a camera
+      to provide feedback of locationand target recognition is in the nose; but the
+      body of this design alsorequires a front-centered propeller which would conflict
+      with theelectronics powering the camera, as well as the camera itself. Figure
+      1: Design Alternative 1Design Alternative 2 The second design that was considered
+      can be seen in Figure 2: DesignAlternative 2. This design proposes a middle-wing
+      configuration, attachedto a fuselage that is rounded towards the front to be
+      able to contain allof the electrical components, but thins out until it is met
+      with a t-tailthat is used to stabilize its flight. This design has great aerodynamiccapabilities
+      due to the shape of its fuselage and long, thin, and rigidwings. The extended
+      wingspan also allows for greater overall lift with theleast amount of drag,
+      which means that a greater load may also besupported. Also with the removal
+      of the support struts, this design issignificantly lighter than the previously
+      suggested design. But althoughthere are a lot of valuable aspects, the same
+      problem arises, and that isthe location of the motor. Due to the fact that the
+      fuselage thins out somuch towards the rear of the plane, it is feasible to place
+      a propellerthere. So while the aerodynamics were significantly improved upon
+      with thisdesign, the fact that this is still a plane requiring a front-centeredpropeller
+      takes away from its feasibility for the desired specifications. \_ \_ \_ \_
+      \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+      Figure 2:Design Alternative 2Design Alternative 3 (Concept design obtained from
+      a movie) The third design, seen below in Figure 3: Design Alternative 3 has
+      becomeour most favoured design for UAV technology today. This design consists
+      ofa glider-type fuselage that has a round nose that is lofted into a thin,circular
+      shape that is met by a V-tail used for increased maneuverability.Similar long,
+      thin, rigid wings are seen in this design as were seen in theglider. The difference
+      between this design and that of the glider comesfrom its extended fuselage,
+      which allows for a back-centered propeller tobe used. This is a significant
+      improvement from the other designs, becauseit allows for the camera to be placed
+      in the nose of the Plane, as well as all of the other electrical components,
+      without beinginterfered with by the propeller.Figure 3: Design Alternative 3Proposed
+      DesignAfter looking into many possible options and comparing the pros and consbetween
+      overall weight, flight time, it was decided that the 3rd designalternative was
+      the best design to go with. With its rigid frame, lightweight, and adherence
+      to design criterion this plane was the best possiblechoice to use to enter into
+      the competition next year, the last thing thatneeds to be decided upon is the
+      type of engine that will be used to fly it.There are both positive and negative
+      aspects related to an electrical motorand a gasoline powered motor, the greatest
+      factor rests in the weight thatwould be added to the system. Once an estimate
+      on the weight of all of theinternal components for the on-board autopilot, batteries
+      and processingequipment is received a decision will be made on the type of engine
+      to beused for this design."
+    typeofenergysource: 
+    rangeorendurance: 
+    cruisespeed: 
+    typeofhydrocarbon_if: 
+    typeofbattery: 
+    numberofrotors: 
+    faulttolerance: 
+    autonomousnavigation: 
+    dronedesign: 
+    rotordetails: 
+    autopilotdetails: 
+    batterydetails: 
+    businessstage: '"Seed Stage'
+    competitiveadvantage: Most of the Aerospace Industries having top level infrastructure,enough
+      andmore funding,support for R&D works,testing capabilities will help them tograsp
+      our system design easily.But what we have which differentiates themfrom our
+      team i s strong research oriented activities,deep technologicalbackgrounds,innovative
+      activities ,professional experience etc.Oursustained advantages include strong
+      research and innovationbackground,superior product or customer support,specific
+      product orientedstudy,low cost compared to aerospace giants."
+    currentmarket: Australia | Bahrain | Canada | Central African Republic | European
+      Union |Germany | India | Italy | Kuwait | Oman | Qatar | United Arab Emirates
+    revenuestream: Vanity Declan focusses on the following revenue system developments.1.Specialised
+      miniaturised engine develepment and marketting.2.Specialised propeller design
+      and implementing services.3.Advanced remote control system design and development.4.Other
+      revenue models include early exit strategies,PWYM models,freemiummodels,swapping
+      for both services and products.5.Developing commision based modules.6. Developing
+      acution modules.7. Third party models like advertisements,franchising,affiliateforstructure
+      models.8.Active direct buisness models like subscription models,premiummodels,single
+      purchase models.
+    marketpenetrationstrategy: "1.Location Pricing:-Reducing the price of the machine
+      compared to theexisting companies pricing strategies.Pricing will be based on
+      areasdependent as if they could pay more for a product,because such type oflocation
+      will consider our product valueless. 2.Product launches:- Launching varieties
+      of same product will increase ourmarket value and brand value.3.Locating new
+      target segments:- \_\_ \_Locating target persons/companies could boost up the
+      marketfeasibility.4.Expanding into new territories5.Develop strategic alliances.6.Fast
+      implementation of latest technologies and promoting green energycould attract
+      world attraction."
+    marketingplanandstrategy: Since we know about the competitors and their works,we
+      will be continuouslyfollowing them in their social medias to get their updated
+      activities andworks.Accordingly we will speed up the works and market explorationactivities.Comparing
+      their activities we will assess ourstrengths,weakness,opportunities & upcoming
+      threats which will help us todevelop our goals,objectives that are on point
+      which is held to ourgoal.Few other marketting strategies include creation of
+      webpages,socialmedia profiles after prototype execution to expose our work worldwide.
+      Wealso try for unique selling preposites through social medias,directappointments,expo's,creating
+      tactical plans etc..
+    yearofestablishment: 2017
+    companydetails: 
+    numberofemployees: 6
+    companylocation: 
+  - dronesxchallenge: 
+    category: Hydrocarbon/Hybrid powered multi-rotor
+    id: 4236435050374d527461334249306868
+    dronename: SimpleUAVs
+    feasablilityscore: 4
+    qualifiedtophase: Yes
+    nameofapplicant: Jeff Zika
+    applicantemailaddress: jzika1@gmail.com
+    applicantgender: Male
+    applicantresponsibility: Founder, Designer, Pilot
+    applicantcountryofresidence: Seattle, WA
+    applicanteducationalbackground: "Universtiy of Washington\nDegree NameComputer
+      Engineering Field Of StudyComputer Engineering\nDates attended or expected graduation
+      1993 \u2013 1996\n\n United States Naval Academy\nUnited States Naval Academy\nDegree
+      NameAeronautical Engineering Field Of StudyAerospace, Aeronautical and Astronautical
+      Engineering\nDates attended or expected graduation 1986 \u2013 1988\n\nActivities
+      and Societies: Offshore varsite sailing. Glee-Club\n Richfield High School\nRichfield
+      High School"
+    applicantskills: Project Management, Integrations, startups & Networking
+    applicantpreviousexperience: "Freelancer\nCompany NameFreelance IT Consultant,
+      Airline Procurement Consultant, and Photographer\nDates EmployedNov 2013 \u2013
+      Dec 2013\nEmployment Duration2 mos\nLocationPhuket, Thailand\n\nCEO\nCompany
+      NameAirGO Asia\nDates Employed2005 \u2013 Jun 2012\nEmployment Duration7 yrs\nLocationPhuket,
+      Thailand\n\nGo To Market Solutions Consultant\nCompany NameViewstor Malaysia\nDates
+      EmployedNov 2010 \u2013 Mar 2011\nEmployment Duration5 mos\nLocationKuala Lumpur,
+      Malaysia"
+    applicantcurrentexperience: "CEO\nCompany NameAirGO Systems\nDates EmployedFeb
+      2018 \u2013 Present\nEmployment Duration1 yr 3 mos\nLocationSeattle, WA\n\n
+      SimpleUAV\nFounder, Designer, Pilot\nCompany NameSimpleUAV\nDates EmployedNov
+      2011 \u2013 Present\nEmployment Duration7 yrs 6 mos"
+    applicantrecurringentrepreneur: Yes
+    dronesize: 
+    droneweight: 21kg
+    weightdronecancarry: 29kg
+    droneframe: weatherproof frame with retractable arms and landing gear.
+    innovativeness: weatherproof frame with retractable arms and landing gear.
+    typeofenergysource: battery or hybrid system (fuel)
+    rangeorendurance: 15 min battery or 1:21 hours hybrid system
+    cruisespeed: 
+    typeofhydrocarbon_if: 
+    typeofbattery: Graphene LiPo
+    numberofrotors: 8
+    faulttolerance: Graphene LiPo
+    autonomousnavigation: 
+    dronedesign: hexacopters
+    rotordetails: Bi-plane or winglet custom 30 in folding propellers
+    autopilotdetails: 
+    batterydetails: 
+    businessstage: '"Early Stage Startup (pre-funding, with an MVP)'
+    competitiveadvantage: 1. Experience - we've been designing, building, and integrating
+      multirotorUAVs since 20112. In-house prototyping and build capability - AirGO
+      Systems (dbaSimpleUAVs) are colocated with Issaquah Innovations Lab, a private
+      makerspace with design, 3d printing, machining, and fabrication capabilities.3.
+      In-house development expertise - all the co-founders have softwaredevelopment
+      at Microsoft, IBM, Digital, and HP with domain knowledge offlight control software
+      implementations, ROS, NVidia Jetson, and others.
+    currentmarket: Philippines | Puerto Rico | Thailand | United Arab Emirates | United
+      States
+    revenuestream: We have two revenue streams:1. Systems Sales to:- FEMA, Red Cross,
+      Police And Fire Services- Army Corps of Engineers- Disaster Relief NGOs- Governments2.
+      Services and Operations- Governments- Disaster Relief Organizations- Police
+      and Fire ServicesWe have two sources of income:1. Sale of Emergency Response
+      UAS Integration kits for First response andtactical vehicles to military, FEMA,
+      Municipalities, police and fire, otherfirst responders, other government agencies
+      and NGOs2. On-demand and on-retainer contract service during disaster responsemissions
+      for relief agencies, FEMA, NGOs, governments, etc.3. SBIR Innovation grants
+      from NASA and various USA DOD agencies.
+    marketpenetrationstrategy: AirGO Systems dba SimpleUAVs is a registered government
+      supplier to the USAand Thai governments. We have relationships with NASA, the
+      USMC, NAVIAR,U.S. Army Corp of Engineers, World Vision, the Thai Air Force,
+      Navy, andDCA, UAS SOFWERX and the FAA. Our co-founders are on numerous governmentand
+      industry advisory boards. We also attend several NASA, DOD, andinternational
+      conferences yearly. Our main project is still in stealth, so, for now, we plan
+      to capitalize onour connections to build awareness for our company and products.
+      The firstpart of the DRUAS will be part of a crowd-funded campaign in the nearfuture
+      with a concurrent SEO and digital media marketing campaign. For the complete
+      DRUAS, we plan to construct a prototype/show vehiclesystem out of a surplus
+      M1078 1.5 ton military truck. This system will bepresented at key conventions,
+      shows, and DOD events, such as theTechconnect Innovation Summit, and become
+      a core part of the serviceoffering. We are considering crowd-funding our disaster
+      response serviceoffering.
+    marketingplanandstrategy: As said above under Market Penetration Strategy our
+      main project is stillin stealth, so, for now, we plan to capitalize on our connections
+      to buildawareness for our company and products. Our current marketing plans
+      are for the complete DRUAS. For which we planto construct a prototype/show vehicle
+      system out of a surplus M1078 1.5 tonmilitary truck. This system will be presented
+      at key conventions, shows,and DOD events, such as the Techconnect Innovation
+      Summit, and become acore part of the service offering. We haven't hired any
+      marketing and sales staff yet or formed a dedicatedsales division but will do
+      so sometime this year.
+    yearofestablishment: 2001
+    companydetails: Startup of a commercial UAV/UAS research and development, design,
+      integration, testing, and operations company with operations in Singapore, S.
+      Africa, and the U.S.A.
+    numberofemployees: 3
+    companylocation: Seatttle, WA
+  - dronesxchallenge: 
+    category: Hydrocarbon/Hybrid powered multi-rotor
+    id: 5265486b626367724b4c65614f386a4b
+    dronename: TENGRI UAV
+    feasablilityscore: 7
+    qualifiedtophase: Yes
+    nameofapplicant: Eric Wikramanayake
+    applicantemailaddress: eric@tengriuav.com
+    applicantgender: Male
+    applicantresponsibility: Chairman / Ceo / Co-founder
+    applicantcountryofresidence: Singapore
+    applicanteducationalbackground: "\n University of Southern California\nUniversity
+      of Southern California\nDegree NameBSc\nDates attended or expected graduation
+      1980 \u2013 1984\n\n Pepperdine Graziadio Business School\nPepperdine Graziadio
+      Business School\nDegree NameMBA\nDates attended or expected graduation 1987
+      \u2013 1988\n\n Singapore American School\nSingapore American School\nDegree
+      NameHigh School"
+    applicantskills: Business strategy, Planning & Business Planning
+    applicantpreviousexperience: "Chairman\nCompany NameLankan Angel Network\nDates
+      EmployedJan 2013 \u2013 Jul 2016\nEmployment Duration3 yrs 7 mos\n\n Lanka Century
+      Investments PLC\nCEO/Deputy Chairman\nCompany NameLanka Century Investments
+      PLC\nDates EmployedJan 2012 \u2013 Jul 2015\nEmployment Duration3 yrs 7 mos\n\n
+      Ernst & Young : Coopers & Lybrand : Lockheed Martin : Startups\nVarious\nCompany
+      NameErnst & Young : Coopers & Lybrand : Lockheed Martin : Startups\nDates EmployedJan
+      1985 \u2013 Dec 2011\nEmployment Duration27 yrs\nLocationU.S , Europe, Asia"
+    applicantcurrentexperience: "Chairman / Ceo / Co-founder\nCompany NameTENGRI UAV
+      PTE LTD\nDates EmployedJan 2016 \u2013 Present\nEmployment Duration3 yrs 4 mos"
+    applicantrecurringentrepreneur: Yes
+    dronesize: 
+    droneweight: 50 Kg
+    weightdronecancarry: 50 Kg
+    droneframe: 
+    innovativeness: "Long range/ Off-shore BVLOS operations \_ \_ \_ \_ * Heavy lift
+      payload/ Endurance with Hybrid Engines \_* Autonomous navigation and Cargo Drop
+      on moving ship using AI guided UAV * Delivery of a variety of Payloads using
+      UAV sling mechanism"
+    typeofenergysource: Hybrid Petrol - Electric
+    rangeorendurance: 
+    cruisespeed: 
+    typeofhydrocarbon_if: 
+    typeofbattery: Electric
+    numberofrotors: "4 Electric motors driving 1\_meter\_propellors"
+    faulttolerance: 
+    autonomousnavigation: 
+    dronedesign: 
+    rotordetails: "1) Main Propulsion: 4 Electric motors driving 1\_meter propellors\_
+      \_2) Cargo lift 10 meter sling with servo"
+    autopilotdetails: 
+    batterydetails: 
+    businessstage: '"Growth & Establishment'
+    competitiveadvantage: State of the art UAV control systems that work with open
+      source platforms
+    currentmarket: Australia | Brazil | European Union | France | Germany | Italy
+      | Portugal |Saudi Arabia | South Korea | Switzerland | Thailand | Turkey | UnitedKingdom
+      | United States
+    revenuestream: Sale of hardware Tengri Remote Cockpit device and Tengri Ground
+      Controldevice
+    marketpenetrationstrategy: "Component sales to Independent professional UAV operators
+      who use opensource flight controllers, \_ OEM UAV manufacturers who use open
+      sourceflight controllers, and Joint ventures to develop complete UAV's in highpotential
+      industry applications."
+    marketingplanandstrategy: Developing and marketing of a UAV control platform that
+      can be used in awide variety of applications
+    yearofestablishment: 2016
+    companydetails: "Tengri is about the next generation of professional UAV control
+      for commercial and industrial markets. Our passion is to empower UAV operators
+      to deploy UAV\u2019s with an unprecedented level of control opening new markets
+      and opportunities for UAV applications. "
+    numberofemployees: 11
+    companylocation: Singapore
+  - dronesxchallenge: 
+    category: Hydrocarbon/hybrid powered fixed-wing
+    id: 56326e667a336d7932426357425a6448
+    dronename: Krattworks
+    feasablilityscore: 7
+    qualifiedtophase: Yes
+    nameofapplicant: "T\xF5nis Voitka"
+    applicantemailaddress: tonis.voitka@gmail.com
+    applicantgender: Male
+    applicantresponsibility: 
+    applicantcountryofresidence: 
+    applicanteducationalbackground: 
+    applicantskills: 
+    applicantpreviousexperience: 
+    applicantcurrentexperience: 
+    applicantrecurringentrepreneur: 
+    dronesize: 'Wingspan: 4.2 m'
+    droneweight: 148kg
+    weightdronecancarry: 50 kg
+    droneframe: 
+    innovativeness: '"- variable pitch propellers
+
+      - The power for level flight is generated by the use of turbo-generator while
+      LiPo batteries
+
+      power VTOL and hover.
+
+      - bottom open cargo space that enables to reliably parachute the cargo down
+      to the desired point of delivery
+
+      - design will enable the fast change of different cargo modules"'
+    typeofenergysource: battery
+    rangeorendurance: 6 hours
+    cruisespeed: 200 kph
+    typeofhydrocarbon_if: 
+    typeofbattery: LiPo battery
+    numberofrotors: 2
+    faulttolerance: 
+    autonomousnavigation: Inertial Navigation System (optional)
+    dronedesign: VTOL fixed-wing drone
+    rotordetails: '"diameters of 1.4 m
+
+      turbo-generator to power two electrically driven proprotors
+
+      variable pitch propelle"'
+    autopilotdetails: capable of LTE (4G/5G) connectivity to enable operation from
+      very long distances, or with an secure satlink communication rural areas
+    batterydetails: 
+    businessstage: "Early Stage Startup (pre-funding, with an MVP)\t"
+    competitiveadvantage: Our competitive advantages are in our innovative way of
+      solving problemsand seeing things through. Our team consists of highly skilled
+      specialiststhat have worked in the field for years. Together among us we have
+      themeans and capacity to work together with numerous universities anddifferent
+      companies that would help us towards the end goal. Our mostbiggest advantage
+      is our understanding and usage of co-operations withdifferent companies. We
+      seek companies who can do manufacturing forsub-components and we are responsible
+      for end assembly.
+    currentmarket: Estonia | Finland | Portugal | Sweden | United Kingdom | United
+      States
+    revenuestream: Our business model is built upon the constant revenue stream fromsubscription
+      based UAV usage. We believe that the customer needs ourproduct to offer better
+      service themselves, but thanks for today's highcost of industry grade level
+      UAV-s, they most times opt out. This is why wethink that pay-by-flighthour service
+      meets their need better thanconventional means. This gives us a constant revenue
+      stream from multiplecompanies faster and reduces the risk of not making the
+      first sale, becausethe customer has already a lower risk to its business. This
+      is vital inbringing down the operating costs for our todays and future clients.
+    marketpenetrationstrategy: Our main market penetration strategy is to be unique
+      and think about UAV-sand its use cases differently. We believe in educating
+      the customer and enduser by investing time into them. We are in constant contact
+      with thepotential customers and offer them different demos with our products.
+      Weare highly willing to modify to meet the customer needs. Our marketstrategy
+      is highly aggressive compared to our competitors. We believe it istime for a
+      change in the UAV market.
+    marketingplanandstrategy: Our marketing plan and strategy is direct sales and
+      tenders only. Weidentify problems in the field and customers who are related
+      to it. Wetweak and redesign our products to meet the needs of the user. After
+      thisis done we schedule a demo with the potential customer to find out more.
+      Wemap out everything we need to know and make the offer to the customer.
+    yearofestablishment: 2001
+    companydetails: 
+    numberofemployees: 6
+    companylocation: 

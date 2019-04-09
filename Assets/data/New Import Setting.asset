@@ -13,183 +13,183 @@ MonoBehaviour:
   m_Name: New Import Setting
   m_EditorClassIdentifier: 
   templatePath: QuickSheet/ExcelPlugin/Templates
-  scriptFilePath: 
-  editorScriptFilePath: 
+  scriptFilePath: "data/runtime\x13"
+  editorScriptFilePath: data/editor
   sheetName: testDat.xls
   workSheetName: Sheet1
   columnHeaderList:
-  - type: 1
+  - type: 0
     name: DronesXChallenge
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: Category
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: id
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: DroneName
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: feasablilityScore
     isEnable: 0
-    isArray: 1
-  - type: 1
-    name: QualifiedToPhaseI,II,IIIOrNo
+    isArray: 0
+  - type: 0
+    name: QualifiedToPhase
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: NameOfApplicant
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantEmailAddress
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantGender
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantResponsibility
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantCountryOfResidence
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantEducationalBackground
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantSkills
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantPreviousExperience
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantCurrentExperience
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: ApplicantRecurringEntrepreneur
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: DroneSize
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: DroneWeight
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: WeightDroneCanCarry
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: DroneFrame
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: Innovativeness
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: TypeOfEnergySource
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: RangeOrEndurance
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: CruiseSpeed
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: TypeOfHydroCarbon_if
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: TypeOfBattery
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: NumberOfRotors
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: FaultTolerance
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: AutonomousNavigation
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: DroneDesign
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: RotorDetails
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: AutoPilotDetails
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: BatteryDetails
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: BusinessStage
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: CompetitiveAdvantage
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: CurrentMarket
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: RevenueStream
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: MarketPenetrationStrategy
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: MarketingPlanAndStrategy
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: YearOfEstablishment
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: CompanyDetails
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: NumberOfEmployees
     isEnable: 0
-    isArray: 1
-  - type: 1
+    isArray: 0
+  - type: 0
     name: CompanyLocation
     isEnable: 0
-    isArray: 1
+    isArray: 0
   excelFilePath: Assets/data/testDat.xls
   SheetNames:
   - Sheet1

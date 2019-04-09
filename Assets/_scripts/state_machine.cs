@@ -12,6 +12,10 @@ public class state_machine : MonoBehaviour
     public Canvas node3;
     public Canvas node4;
     public int state = 0;
+    public int sub_state = 0;
+    public data_reader d;
+
+    public Button[] buttons;
     void Start()
     {
         
@@ -30,6 +34,10 @@ public class state_machine : MonoBehaviour
                 case1UI();
                 break;
 
+            case 2:
+                case2UI();
+                break;
+
             default:
                 Debug.Log("Wrong state");
                 break;
@@ -39,6 +47,30 @@ public class state_machine : MonoBehaviour
     public void node1_pressed()
     {
         state = 1;
+    }
+
+    public void hydro_fixed_pressed()
+    {
+        state = 2;
+        sub_state = 2;
+    }
+
+    public void hydro_multi_pressed()
+    {
+        state = 2;
+        sub_state = 1;
+    }
+
+    public void battery_fixed_pressed()
+    {
+        state = 2;
+        sub_state = 3;
+    }
+
+    public void battery_multi_pressed()
+    {
+        state = 2;
+        sub_state = 4;
     }
 
     void case0UI()
@@ -58,6 +90,19 @@ public class state_machine : MonoBehaviour
         node2.enabled = false;
         node3.enabled = false;
         node4.enabled = false;
+        return;
+    }
+
+    void case2UI()
+    {
+        node0.enabled = false;
+        node1.enabled = false;
+        node2.enabled = true;
+        node3.enabled = false;
+        node4.enabled = false;
+        
+
+        
         return;
     }
 }
